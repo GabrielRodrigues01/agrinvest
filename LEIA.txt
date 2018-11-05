@@ -1,0 +1,6 @@
+Passos para a execução desse projeto:
+
+1. Criar um banco de dados e configurar a sua conexão no arquivo .env.
+2. Dentro da pasta do projeto, no terminal, rodar "php artisan migrate".
+3. Dentro da pasta do projeto, no terminal, rodar "php artisan db:seed".
+4. Dentro da pasta do projeto, no terminal, rodar "php artisan serve".
